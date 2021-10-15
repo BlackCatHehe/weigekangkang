@@ -1,0 +1,6 @@
+framework module Pods_WeiGeKangkang {
+  umbrella header "Pods-WeiGeKangkang-umbrella.h"
+
+  export *
+  module * { export * }
+}
